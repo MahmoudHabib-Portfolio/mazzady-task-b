@@ -1,0 +1,1258 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <div
+      class="mainProd flex flex-row gap-x-6 gap-y-6"
+    >
+      <div
+        class="userBody flex flex-col w-1/2"
+      >
+        <div
+          class="adminblock w-full rounded-2xl p-6 bg-white"
+        >
+          <div
+            class="flex flex-col gap-y-3"
+          >
+            <div
+              class="bg-white rounded-3xl block"
+              style="width: 100px; height: 100px; background: url(https://i.ibb.co/rQCthVd/avatar-Icon.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;"
+            />
+            <div
+              class="text-lg font-sans font-semibold"
+            >
+              Hala Ahmed
+            </div>
+            <div
+              class="text-sm"
+            >
+              I am Hala Ahmed, I am the owner of the local brand called Beauty which is for Mackeup and Skin Care.
+            </div>
+            <div
+              class="flex w-full justify-between mt-2"
+            >
+              <div
+                class="justify-start rounded-3xl px-2 py-3 bg-featurebg"
+              >
+                <div
+                  class="flex flex-row gap-x-2"
+                >
+                  <div
+                    class="pt-2"
+                  >
+                    <img
+                      alt="Followers"
+                      data-nimg="1"
+                      decoding="async"
+                      height="26"
+                      loading="lazy"
+                      src="/_next/image?url=%2Fimg.jpg&w=64&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=64&q=75 2x"
+                      style="color: transparent;"
+                      width="26"
+                    />
+                  </div>
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div>
+                      <span
+                        class="text-base font-sans font-bold text-black"
+                      >
+                        5
+                      </span>
+                    </div>
+                    <div>
+                      <span
+                        class="text-sm font-sans font-semibold text-featuretext"
+                      >
+                        Following
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="justify-center rounded-3xl px-2 py-3 bg-featurebg"
+              >
+                <div
+                  class="flex flex-row gap-x-2"
+                >
+                  <div
+                    class="pt-2"
+                  >
+                    <img
+                      alt="Followers"
+                      data-nimg="1"
+                      decoding="async"
+                      height="23"
+                      loading="lazy"
+                      src="/_next/image?url=%2Fimg.jpg&w=48&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=48&q=75 2x"
+                      style="color: transparent;"
+                      width="23"
+                    />
+                  </div>
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div>
+                      <span
+                        class="text-base font-sans font-bold text-black"
+                      >
+                        20
+                      </span>
+                    </div>
+                    <div>
+                      <span
+                        class="text-sm font-sans font-semibold text-featuretext"
+                      >
+                        Followers
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="justify-end rounded-3xl px-2 py-3 bg-featurebg"
+              >
+                <div
+                  class="flex flex-row gap-x-2"
+                >
+                  <div
+                    class="pt-2"
+                  >
+                    <img
+                      alt="Followers"
+                      data-nimg="1"
+                      decoding="async"
+                      height="23"
+                      loading="lazy"
+                      src="/_next/image?url=%2Fimg.jpg&w=48&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=48&q=75 2x"
+                      style="color: transparent;"
+                      width="23"
+                    />
+                  </div>
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-navLinks text-xs"
+                    >
+                      <span
+                        class="text-base font-sans font-bold text-black"
+                      >
+                        4.2
+                      </span>
+                        
+                      (15)
+                    </div>
+                    <div>
+                      <span
+                        class="text-sm font-sans font-semibold text-featuretext"
+                      >
+                        Rate
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="w-full mt-3"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium followBtn css-o32f2o-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Follow
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="adminblock w-full rounded-2xl p-6 mt-4 bg-white relative"
+        >
+          <div
+            class="justify-end res-addBtn"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium Sub-addBtn css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-startIcon MuiButton-iconSizeMedium css-1d6wzja-MuiButton-startIcon"
+              >
+                <svg
+                  class="font-bold text-white"
+                  fill="none"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="10"
+                  />
+                  <line
+                    x1="12"
+                    x2="12"
+                    y1="8"
+                    y2="16"
+                  />
+                  <line
+                    x1="8"
+                    x2="16"
+                    y1="12"
+                    y2="12"
+                  />
+                </svg>
+              </span>
+              Add Review
+            </button>
+          </div>
+          <div
+            class="flex justify-between w-full"
+          >
+            <div
+              class="text-lg font-bold text-black justify-start"
+            >
+              QR Code
+            </div>
+            <div
+              class="justify-end"
+            >
+              <div
+                class="flex flex-row w-full gap-x-3"
+              >
+                <div>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-yvetkp-MuiButtonBase-root-MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <img
+                      alt="Search"
+                      data-nimg="1"
+                      decoding="async"
+                      height="20"
+                      loading="lazy"
+                      src="/_next/image?url=%2Fimg.jpg&w=48&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=48&q=75 2x"
+                      style="color: transparent;"
+                      width="20"
+                    />
+                  </button>
+                </div>
+                <div>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-yvetkp-MuiButtonBase-root-MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <img
+                      alt="Search"
+                      data-nimg="1"
+                      decoding="async"
+                      height="20"
+                      loading="lazy"
+                      src="/_next/image?url=%2Fimg.jpg&w=48&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=48&q=75 2x"
+                      style="color: transparent;"
+                      width="20"
+                    />
+                  </button>
+                </div>
+                <div>
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-yvetkp-MuiButtonBase-root-MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <img
+                      alt="Search"
+                      data-nimg="1"
+                      decoding="async"
+                      height="20"
+                      loading="lazy"
+                      src="/_next/image?url=%2Fimg.jpg&w=48&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=48&q=75 2x"
+                      style="color: transparent;"
+                      width="20"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="w-full rounded-3xl px-2 py-3 bg-featurebg mt-2"
+          >
+            <div
+              class="flex flex-row gap-x-2"
+            >
+              <div>
+                <img
+                  alt="Followers"
+                  data-nimg="1"
+                  decoding="async"
+                  height="25"
+                  loading="lazy"
+                  src="/_next/image?url=%2Fimg.jpg&w=64&q=75"
+                  srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=64&q=75 2x"
+                  style="color: transparent;"
+                  width="25"
+                />
+              </div>
+              <div
+                class="pl-2 text-sm"
+              >
+                Download the QR code or share it with your friends.
+              </div>
+            </div>
+          </div>
+          <div
+            class="QRBody flex flex-col mt-3"
+          >
+            <div
+              class="flex justify-center w-full"
+            >
+              <img
+                alt="Search"
+                data-nimg="1"
+                decoding="async"
+                height="40"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+                style="color: transparent;"
+                width="40"
+              />
+            </div>
+            <div
+              class="flex justify-center w-full font-semibold font-sans text-lg"
+            >
+              Hala Ahmed
+            </div>
+            <div
+              class="flex justify-center w-full"
+            >
+              <img
+                alt="Search"
+                data-nimg="1"
+                decoding="async"
+                height="40"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+                style="color: transparent;"
+                width="40"
+              />
+            </div>
+            <div
+              class="flex justify-center w-full font-sans font-semibold text-sm"
+            >
+              Follow Us on Mazaady
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="bg-white w-full rounded-2xl px-3 py-4"
+      >
+        <div
+          class="flex menbar justify-between"
+        >
+          <div
+            class="flex flex-row gap-x-3"
+          >
+            <div>
+              <button
+                class="block py-1 px-4 border-1 border-featuretext text-featuretext rounded-2xl font-sans font-bold bg-featurebg"
+                type="button"
+              >
+                Products
+              </button>
+            </div>
+            <div>
+              <button
+                class="block py-1 px-4 border-1 border-greyblk text-greyText rounded-2xl font-sans bg-white"
+                type="button"
+              >
+                Articles
+              </button>
+            </div>
+            <div>
+              <button
+                class="block py-1 px-4 border-1 border-greyblk text-greyText rounded-2xl font-sans bg-white"
+                type="button"
+              >
+                Reviews
+              </button>
+            </div>
+          </div>
+          <div
+            class="justify-end Nest-addBtn"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium Sub-addBtn css-rorijn-MuiButtonBase-root-MuiButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-startIcon MuiButton-iconSizeMedium css-1d6wzja-MuiButton-startIcon"
+              >
+                <svg
+                  class="font-bold text-white"
+                  fill="none"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="10"
+                  />
+                  <line
+                    x1="12"
+                    x2="12"
+                    y1="8"
+                    y2="16"
+                  />
+                  <line
+                    x1="8"
+                    x2="16"
+                    y1="12"
+                    y2="12"
+                  />
+                </svg>
+              </span>
+              Add Review
+            </button>
+          </div>
+        </div>
+        <div
+          class="flex flex-col gap-y-4 w-full mt-4"
+        >
+          <div
+            class="text-base text-greyText"
+          >
+            <span
+              class="text-black text-3xl font-bold font-sans w-full"
+            >
+              Products
+            </span>
+              ( 
+            6
+             )
+          </div>
+          <div
+            class="product-thumb flex flex-row gap-x-4 px-1 mt-1 gap-y-4"
+          >
+            <div
+              class="bg-white rounded-3xl relative"
+              style="width: 150px; height: 110px; background: url(https://i.ibb.co/yqnh2cJ/productone.png); background-repeat: no-repeat; background-position: center; background-size: cover;"
+            >
+              <div
+                style="width: 100px; height: 27px; position: absolute; border-radius: 33.8px 0px 33.8px 0px; background: rgb(210, 6, 83); bottom: 0px; right: 0px; text-align: center; font-size: 12px; color: rgb(255, 255, 255); line-height: 27px; font-family: sans-serif;"
+              >
+                Live Auction
+              </div>
+              <div
+                class="res-harts"
+                style="width: 35px; height: 35px; position: absolute; left: 8px; top: 6px; background: rgb(255, 255, 255); border-radius: 100px; line-height: 35px; text-align: center;"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div
+              class="flex flex-row w-full justify-between"
+            >
+              <div
+                class="flex flex-col justify-start gap-y-2"
+              >
+                <div
+                  class="font-sans text-lg"
+                >
+                  Six-Piece Clothing Set (Blouse - Pants - Hat And ...
+                </div>
+                <div
+                  class="font-sans text-xl font-bold"
+                >
+                  <span
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Starting Price
+                  </span>
+                   
+                  1000
+                   EGP
+                </div>
+                <div
+                  class="res-lots flex flex-row gap-x-3 gap-y-2"
+                >
+                  <div
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Lot Starts in
+                  </div>
+                  <div
+                    class="flex flex-row gap-x-4"
+                  >
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        2
+                      </span>
+                       Days
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        10
+                      </span>
+                       Hours
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        50
+                      </span>
+                       Minutes
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="justify-end base-harts"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="product-thumb flex flex-row gap-x-4 px-1 mt-1 gap-y-4"
+          >
+            <div
+              class="bg-white rounded-3xl relative"
+              style="width: 150px; height: 110px; background: url(https://i.ibb.co/HXPMdGB/svgviewer-png-output.png); background-repeat: no-repeat; background-position: center; background-size: cover;"
+            >
+              <div
+                style="width: 100px; height: 27px; position: absolute; border-radius: 33.8px 0px 33.8px 0px; background: rgb(210, 6, 83); bottom: 0px; right: 0px; text-align: center; font-size: 12px; color: rgb(255, 255, 255); line-height: 27px; font-family: sans-serif;"
+              >
+                Live Auction
+              </div>
+              <div
+                class="res-harts"
+                style="width: 35px; height: 35px; position: absolute; left: 8px; top: 6px; background: rgb(255, 255, 255); border-radius: 100px; line-height: 35px; text-align: center;"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div
+              class="flex flex-row w-full justify-between"
+            >
+              <div
+                class="flex flex-col justify-start gap-y-2"
+              >
+                <div
+                  class="font-sans text-lg"
+                >
+                  Six-Piece Clothing Set (Blouse - Pants - Hat And ...
+                </div>
+                <div
+                  class="font-sans text-xl font-bold"
+                >
+                  <span
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Starting Price
+                  </span>
+                   
+                  1000
+                   EGP
+                </div>
+                <div
+                  class="res-lots flex flex-row gap-x-3 gap-y-2"
+                >
+                  <div
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Lot Starts in
+                  </div>
+                  <div
+                    class="flex flex-row gap-x-4"
+                  >
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        2
+                      </span>
+                       Days
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        10
+                      </span>
+                       Hours
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        50
+                      </span>
+                       Minutes
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="justify-end base-harts"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="product-thumb flex flex-row gap-x-4 px-1 mt-1 gap-y-4"
+          >
+            <div
+              class="bg-white rounded-3xl relative"
+              style="width: 150px; height: 110px; background: url(https://i.ibb.co/xsS4CsM/svgviewer-png-output.png); background-repeat: no-repeat; background-position: center; background-size: cover;"
+            >
+              <div
+                style="width: 100px; height: 27px; position: absolute; border-radius: 33.8px 0px 33.8px 0px; background: rgb(255, 149, 29); bottom: 0px; right: 0px; text-align: center; font-size: 12px; color: rgb(255, 255, 255); line-height: 27px; font-family: sans-serif;"
+              >
+                Hot Sale
+              </div>
+              <div
+                class="res-harts"
+                style="width: 35px; height: 35px; position: absolute; left: 8px; top: 6px; background: rgb(255, 255, 255); border-radius: 100px; line-height: 35px; text-align: center;"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#D20653"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div
+              class="flex flex-row w-full justify-between"
+            >
+              <div
+                class="flex flex-col justify-start gap-y-2"
+              >
+                <div
+                  class="font-sans text-lg"
+                >
+                  Six-Piece Clothing Set (Blouse - Pants - Hat And ...
+                </div>
+                <div
+                  class="font-sans text-xl font-bold"
+                >
+                  <span
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Starting Price
+                  </span>
+                   
+                  1000
+                   EGP
+                </div>
+                <div
+                  class="res-lots flex flex-row gap-x-3 gap-y-2"
+                >
+                  <div
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Lot Starts in
+                  </div>
+                  <div
+                    class="flex flex-row gap-x-4"
+                  >
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        2
+                      </span>
+                       Days
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        10
+                      </span>
+                       Hours
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        50
+                      </span>
+                       Minutes
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="justify-end base-harts"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#D20653"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="product-thumb flex flex-row gap-x-4 px-1 mt-1 gap-y-4"
+          >
+            <div
+              class="bg-white rounded-3xl relative"
+              style="width: 150px; height: 110px; background: url(https://i.ibb.co/whTpm8w/svgviewer-png-output.png); background-repeat: no-repeat; background-position: center; background-size: cover;"
+            >
+              <div
+                style="width: 100px; height: 27px; position: absolute; border-radius: 33.8px 0px 33.8px 0px; background: rgb(210, 6, 83); bottom: 0px; right: 0px; text-align: center; font-size: 12px; color: rgb(255, 255, 255); line-height: 27px; font-family: sans-serif;"
+              >
+                Live Auction
+              </div>
+              <div
+                class="res-harts"
+                style="width: 35px; height: 35px; position: absolute; left: 8px; top: 6px; background: rgb(255, 255, 255); border-radius: 100px; line-height: 35px; text-align: center;"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div
+              class="flex flex-row w-full justify-between"
+            >
+              <div
+                class="flex flex-col justify-start gap-y-2"
+              >
+                <div
+                  class="font-sans text-lg"
+                >
+                  Six-Piece Clothing Set (Blouse - Pants - Hat And ...
+                </div>
+                <div
+                  class="font-sans text-xl font-bold"
+                >
+                  <span
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Starting Price
+                  </span>
+                   
+                  1000
+                   EGP
+                </div>
+                <div
+                  class="res-lots flex flex-row gap-x-3 gap-y-2"
+                >
+                  <div
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Lot Starts in
+                  </div>
+                  <div
+                    class="flex flex-row gap-x-4"
+                  >
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        2
+                      </span>
+                       Days
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        10
+                      </span>
+                       Hours
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        50
+                      </span>
+                       Minutes
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="justify-end base-harts"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="product-thumb flex flex-row gap-x-4 px-1 mt-1 gap-y-4"
+          >
+            <div
+              class="bg-white rounded-3xl relative"
+              style="width: 150px; height: 110px; background: url(https://i.ibb.co/BCg153n/svgviewer-png-output.png); background-repeat: no-repeat; background-position: center; background-size: cover;"
+            >
+              <div
+                style="width: 100px; height: 27px; position: absolute; border-radius: 33.8px 0px 33.8px 0px; background: rgb(210, 6, 83); bottom: 0px; right: 0px; text-align: center; font-size: 12px; color: rgb(255, 255, 255); line-height: 27px; font-family: sans-serif;"
+              >
+                Live Auction
+              </div>
+              <div
+                class="res-harts"
+                style="width: 35px; height: 35px; position: absolute; left: 8px; top: 6px; background: rgb(255, 255, 255); border-radius: 100px; line-height: 35px; text-align: center;"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div
+              class="flex flex-row w-full justify-between"
+            >
+              <div
+                class="flex flex-col justify-start gap-y-2"
+              >
+                <div
+                  class="font-sans text-lg"
+                >
+                  Six-Piece Clothing Set (Blouse - Pants - Hat And ...
+                </div>
+                <div
+                  class="font-sans text-xl font-bold"
+                >
+                  <span
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Starting Price
+                  </span>
+                   
+                  1000
+                   EGP
+                </div>
+                <div
+                  class="res-lots flex flex-row gap-x-3 gap-y-2"
+                >
+                  <div
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Lot Starts in
+                  </div>
+                  <div
+                    class="flex flex-row gap-x-4"
+                  >
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        2
+                      </span>
+                       Days
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        10
+                      </span>
+                       Hours
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        50
+                      </span>
+                       Minutes
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="justify-end base-harts"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="product-thumb flex flex-row gap-x-4 px-1 mt-1 gap-y-4"
+          >
+            <div
+              class="bg-white rounded-3xl relative"
+              style="width: 150px; height: 110px; background: url(https://i.ibb.co/HXPMdGB/svgviewer-png-output.png); background-repeat: no-repeat; background-position: center; background-size: cover;"
+            >
+              <div
+                style="width: 100px; height: 27px; position: absolute; border-radius: 33.8px 0px 33.8px 0px; background: rgb(210, 6, 83); bottom: 0px; right: 0px; text-align: center; font-size: 12px; color: rgb(255, 255, 255); line-height: 27px; font-family: sans-serif;"
+              >
+                Live Auction
+              </div>
+              <div
+                class="res-harts"
+                style="width: 35px; height: 35px; position: absolute; left: 8px; top: 6px; background: rgb(255, 255, 255); border-radius: 100px; line-height: 35px; text-align: center;"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div
+              class="flex flex-row w-full justify-between"
+            >
+              <div
+                class="flex flex-col justify-start gap-y-2"
+              >
+                <div
+                  class="font-sans text-lg"
+                >
+                  Six-Piece Clothing Set (Blouse - Pants - Hat And ...
+                </div>
+                <div
+                  class="font-sans text-xl font-bold"
+                >
+                  <span
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Starting Price
+                  </span>
+                   
+                  1000
+                   EGP
+                </div>
+                <div
+                  class="res-lots flex flex-row gap-x-3 gap-y-2"
+                >
+                  <div
+                    class="text-base text-greyText font-sans font-normal"
+                  >
+                    Lot Starts in
+                  </div>
+                  <div
+                    class="flex flex-row gap-x-4"
+                  >
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        2
+                      </span>
+                       Days
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        10
+                      </span>
+                       Hours
+                    </div>
+                    <div
+                      class="justify-end text-sm font-sans font-normal rounded-3xl px-3 py-1 bg-featurebg text-featuretext"
+                    >
+                      <span
+                        class="text-featuretext text-base font-bold"
+                      >
+                        50
+                      </span>
+                       Minutes
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="justify-end base-harts"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-ilx0p3-MuiButtonBase-root-MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    fill="#fff"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
